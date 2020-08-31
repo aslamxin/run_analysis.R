@@ -1,6 +1,6 @@
-##Study design and data processing
+## Study design and data processing
 
-###Collection of the raw data
+### Collection of the raw data
 The data are obtained [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 The dataset used:
@@ -21,7 +21,7 @@ All data from Inertial Signals are unused.
 ###Notes on the original (raw) data 
 The detailed explanation of the experiments can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-##Creating the tidy datafile
+## Creating the tidy datafile
 
 * Download and read all data needed to be used
 * Test and training datasets are merged into one data frame.

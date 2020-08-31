@@ -41,4 +41,4 @@ AcLabel <- group_by(newData, activityDesc, Subject)
 summaryData <- summarize(AcLabel, AvMean=mean(measureMean),AvSD=mean(measureSD))
 
 # Write this table to a text file to upload as per instructions
-write.table(summaryData,file="summaryData.txt",row.names = FALSE)
+write.table(summaryData, file="summaryData.txt", row.names = FALSE)
