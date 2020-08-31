@@ -18,7 +18,7 @@ The dataset used:
 
 All data from Inertial Signals are unused.
 
-###Notes on the original (raw) data 
+### Notes on the original (raw) data
 The detailed explanation of the experiments can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Creating the tidy datafile
